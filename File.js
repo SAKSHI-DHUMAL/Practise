@@ -5,4 +5,4 @@ console.log(` Multiplication Of 2 Numbers is: ${a * b}`);
 console.log("Hello, Vighnesh");
 console.log("Hello, Sakshi");
 
-console.log("Welcome to the IT Industy");
+console.log("Welcome to the IT Indusrty");
