@@ -14,3 +14,8 @@ console.log(sum);
 const nums = [2, 4, 3, 5, 1, 6];
 const evens = nums.filter((nums) => nums % 2 === 0);
 console.log(evens);
+
+
+const names = ["Alice", "Bob", "Charlie", "Denver"];
+const capitalized = names.map((names) => CharAt(0).toUpperCase().slice(1));
+console.log(capitalized);
