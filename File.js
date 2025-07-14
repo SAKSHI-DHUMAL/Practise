@@ -7,6 +7,10 @@ console.log("Hello, Sakshi");
 
 console.log("Welcome to the IT Indusrty");
 
-const arr=[1,2,3,4];
-const sum=arr.reduce((acc, curr) =>return acc+curr;)};
+const arr = [1, 2, 3, 4];
+const sum = arr.reduce((acc, curr) => acc + curr);
 console.log(sum);
+
+const nums = [2, 4, 3, 5, 1, 6];
+const evens = nums.filter((nums) => nums % 2 === 0);
+console.log(evens);
